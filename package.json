@@ -1,0 +1,22 @@
+{
+  "name": "tetristypescript",
+  "version": "1.0.0",
+  "description": "Tetris made by Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joowining/TetrisTypeScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joowining/TetrisTypeScript/issues"
+  },
+  "homepage": "https://github.com/joowining/TetrisTypeScript#readme",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  }
+}
